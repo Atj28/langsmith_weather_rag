@@ -1,4 +1,7 @@
-<img width="1508" height="825" alt="Screenshot 2026-01-19 at 1 02 39 PM" src="https://github.com/user-attachments/assets/1eee72f2-3996-4325-aeb7-283feda1d0fd" /># Weather RAG Pipeline
+<img width="3014" height="1650" alt="image" src="https://github.com/user-attachments/assets/9975b726-1e90-42fe-abdf-d7662ac12165" />
+
+
+# Weather RAG Pipeline
 
 An AI-powered pipeline that combines real-time weather data with document-based question answering using LangGraph, LangChain, and LangSmith.
 
