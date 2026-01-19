@@ -1,0 +1,35 @@
+# LangChain ecosystem
+langchain==0.3.14
+langchain-openai==0.2.14
+langchain-community==0.3.14
+langgraph==0.2.61
+
+# LangSmith for evaluation
+langsmith==0.2.10
+
+# Vector database
+qdrant-client==1.12.1
+
+# PDF processing
+pypdf==5.1.0
+
+# Web UI
+streamlit==1.41.1
+
+# Environment management
+python-dotenv>=1.1.1
+
+# HTTP client
+httpx==0.28.1
+requests==2.32.3
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.24.0
+pytest-mock==3.14.0
+
+# Async support
+aiohttp==3.11.11
+
+# Type hints
+pydantic>=2.11.9
