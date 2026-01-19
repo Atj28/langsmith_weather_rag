@@ -38,8 +38,15 @@ env/
 # Streamlit
 .streamlit/
 
-# Qdrant data
+# Qdrant and Vector Database data
 qdrant_storage/
+*.qdrant
+embeddings/
+vectorstore/
+chroma_db/
+faiss_index/
+*.index
+*.pkl
 
 # Jupyter Notebook
 .ipynb_checkpoints
