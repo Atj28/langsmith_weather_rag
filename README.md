@@ -1,4 +1,4 @@
-# Weather RAG Pipeline
+<img width="1508" height="825" alt="Screenshot 2026-01-19 at 1 02 39 PM" src="https://github.com/user-attachments/assets/1eee72f2-3996-4325-aeb7-283feda1d0fd" /># Weather RAG Pipeline
 
 An AI-powered pipeline that combines real-time weather data with document-based question answering using LangGraph, LangChain, and LangSmith.
 
@@ -230,6 +230,9 @@ config = load_config()
 graph = create_agent_graph(config)
 result = run_agent_sync(graph, "What's the weather in NYC?")
 ```
+### Added few photos
+<img width="1508" height="825" alt="Screenshot 2026-01-19 at 1 02 39 PM" src="https://github.com/user-attachments/assets/a98514f7-7ceb-4fd7-80e4-ce1aa1dea93c" />
+
 
 ## Troubleshooting
 
@@ -259,9 +262,6 @@ Solution: Run document ingestion first with `--ingest`
 4. Run tests: `pytest`
 5. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details.
 
 ## Acknowledgments
 
